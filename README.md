@@ -31,6 +31,8 @@ ITEC412/SoC 설계 및 프로그래밍 프로젝트
   - Text LCD IP
   - 7-segment IP
 
+![System Diagram](./doc/슬라이드5.JPG)
+
 ### 📸 Camera IP 동작
 
 1. PL에서 SCCB 통신으로 카메라 초기화
